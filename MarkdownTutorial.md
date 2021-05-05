@@ -55,3 +55,19 @@ main 브랜치에서 작업한 내역
     Second paragraphs
 
 
+## Line Breaks
+
+- 줄 바꿈하려면 후행 공백(두 개 이상의 공백)으로 줄을 끝내고 리턴함.
+- 거의 모든 Markdown 응용프로그램에서 후행 공백 대신 HTML tag \<br>을 사용할 수 있음.
+
+    입력:
+
+        This is the first line.  
+        And this is the second line.
+
+    출력:
+
+    This is the first line.  
+    And this is the second line.
+
+
